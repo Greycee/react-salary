@@ -10,4 +10,4 @@ To install de dependencies and start the application run: `npm i` and after `npm
 
 Para instalar as dependências e inicializar a aplicação rode: `npm i` e em seguida `npm start`.
 
-![Screenshot](https://user-images.githubusercontent.com/33056762/86824528-a07c8880-c064-11ea-8876-0920a9f58b3b.png)
+![Screenshot 2020-07-07 at 15 16 36](https://user-images.githubusercontent.com/33056762/86824720-e8031480-c064-11ea-9a80-7afcbec15476.png)
